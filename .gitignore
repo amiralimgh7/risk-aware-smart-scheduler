@@ -1,0 +1,16 @@
+# Generated files and local environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+outputs/
+*.o
+*.exe
+*.class
+target/
+.pio/
+.idea/
+.vscode/
+.DS_Store
